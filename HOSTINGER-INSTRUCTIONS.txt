@@ -1,0 +1,40 @@
+GAS STOVE REPAIR — STANDALONE REVIEW PAGE
+
+Upload the contents of gas-stove-repair-hostinger.zip to a new, empty folder
+on YOUR selected domain in Hostinger File Manager. For example, if your
+domain's document root is public_html, create public_html/gas-stove-repair/.
+Confirm the selected website and its document root in your own account first.
+
+After extraction that folder should directly contain:
+  index.html
+  .htaccess
+  assets/
+
+Open https://YOUR-DOMAIN/gas-stove-repair/ in a private browser window.
+Do not upload the .inspection folder. Do not replace the client's website.
+This is a complete page plus local images, fonts, CSS and a tiny menu script.
+Copying index.html alone is not sufficient.
+
+CHECK AFTER UPLOADING
+1. Compare desktop and phone views against the client's page.
+2. Confirm images and the business email support@gasstoverepair.org appear.
+3. Tap each of the two phone buttons and the floating green phone button.
+   The dialler should show +91 9313159586. Cancel rather than placing a test call.
+4. Open and close the mobile menu and its Services submenu.
+5. Confirm footer links open gasstoverepair.org pages. The footer logo and
+   About Us links were corrected from the template site to the client site.
+6. Run mobile and desktop PageSpeed Insights on the uploaded HTTPS address.
+
+TRACKING AND COMPARISON
+Google Ads, Google Tag Manager, Google Analytics and other tracking are absent.
+This is the agreed review version. It cannot measure Google Ads conversions
+until the client-approved conversion setup is installed and verified.
+Compare final page speed again after adding the tracking used for the ad test.
+Local preview loading times do not represent Hostinger loading times.
+
+The original text, photos and layout are retained, including its existing
+mobile overflow and references to a booking form that is not present.
+No enquiry form or new offer has been added.
+
+The .htaccess file requests compression and asset caching when supported.
+Hostinger's actual server/CDN settings determine the final response behaviour.
